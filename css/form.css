@@ -52,3 +52,40 @@ button {
 .titulo {
     margin-left: 8px;
 }
+
+/*Termos*/
+#div-termos{
+    display: block;
+    width: 310px;
+    height: auto;
+    font-size: 13px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    margin: 2px 8px;
+    padding: 0;
+}
+
+#checkbox-label{
+    padding: 0;
+}
+
+.checkbox-termos{
+    padding: 0;
+    margin: 0;
+}
+
+
+.desabilitado, .desabilitado:hover{
+    background: #ffffff;
+    border: solid 1px #080707;
+    color: #080707;
+    cursor: auto;
+}
+
+/*Texto de alerta de termos e condicoes */
+.textodesabilitado, .textodesabilitado:hover{
+    border: none;
+    cursor: none;
+    visibility: hidden;
+}
