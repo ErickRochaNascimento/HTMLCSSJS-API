@@ -9,7 +9,6 @@
     <link href="css/reset.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/form.css" rel="stylesheet">
-    <script src="js/form.js"></script>
 </head>
 
 <body>
@@ -42,9 +41,14 @@
                 <form onsubmit="return Post(this);">
                     <input type="text" id="nome" name="nome" placeholder="NOME*" class="fordform" required>
                     <input type="text" name="email" placeholder="E-MAIL*" class="fordform" required>
-                    <input type="text" name="cpf" placeholder="CPF*" class="fordform" required>
+                    <input type="text" id="cpf" name="cpf" placeholder="CPF*" class="fordform"  required>
                     <input type="text" name="sobrenome" placeholder="SOBRENOME*" class="fordform" required>
                     <input type="text" name="telefone" placeholder="TELEFONE*" class="fordform" required>
+                    <input type="text" id="cep" name="cep" placeholder="CEP*" class="fordform" onblur="BuscarCep(this.value)">
+                    <input type="text" id="endereco" name="endereco" placeholder="ENDEREÇO" class="fordform">
+                    <input type="text" id="bairro" name="bairro" placeholder="BAIRRO" class="fordform">
+                    <input type="text" id="cidade" name="cidade" placeholder="CIDADE" class="fordform">
+                    <input type="text" id="estado" name="estado" placeholder="ESTADO" class="fordform">
                     <select name="contato" class="fordform" required>
                         <option selected>COMO DESEJA SER CONTATADO</option>
                         <option>TELEFONE</option>
@@ -86,6 +90,7 @@
             <img src="img/ford-96.png" width="70" />
         </div>
     </footer>
+    <script src="js/form.js"></script>
 </body>
 
 </html>
