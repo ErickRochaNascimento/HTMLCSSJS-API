@@ -57,8 +57,8 @@ function bloquear(check){
 
 function TestarCPF(cpf){
     cpf = cpf.replace(/\D/g, '');
-    if(cpf.length !== 11){
-        alert(`Menor que 11 ${cpf}`);
+    if(cpf.length !== 12){
+        alert(`Menor que 12 ${cpf}`);
         return;
     }
 }
