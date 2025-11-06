@@ -33,6 +33,13 @@ Este projeto é puramente Front-end e utiliza as seguintes tecnologias:
 
 ---
 
+## 🌐 Acesse o site online:
+
+O projeto está disponível publicamente através do GitHub Pages. Você pode testá-lo diretamente neste link:
+👉 https://erickrochanascimento.github.io/HTMLCSSJS-API/
+
+---
+
 ## 🧑‍💻 Autor
 
 **Erick Rocha Nascimento**  
