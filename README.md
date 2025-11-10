@@ -43,22 +43,7 @@ O projeto está disponível publicamente através do GitHub Pages. Você pode te
 ## 🧑‍💻 Autor
 
 **Erick Rocha Nascimento**  
-📘 Desenvolvido como projeto prático de estudo de **APIs e JavaScript**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento) | [GitHub](https://github.com/ErickRochaNascimento)
 
----
 
-## 🪪 Licença
 
-Este projeto é de uso livre para fins de estudo e aprendizado.  
-Os dados são públicos e provenientes da [BrasilAPI](https://brasilapi.com.br/).
-## ▶️ Como Rodar Localmente
-
-Para testar o projeto em sua máquina:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/ErickRochaNascimento/HTMLCSSJS-API.git
-    cd HTMLCSSJS-API
-    ```
-2.  **Abra o arquivo `index.html`** no seu navegador.
