@@ -46,11 +46,6 @@ O projeto está disponível publicamente através do GitHub Pages. Você pode te
 📘 Desenvolvido como projeto prático de estudo de **APIs e JavaScript**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento) | [GitHub](https://github.com/ErickRochaNascimento)
 
-## 👤 Autor
-
-**Erick Rocha Nascimento**
-*   [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
-*   [GitHub](https://github.com/ErickRochaNascimento)
 ---
 
 ## 🪪 Licença
